@@ -1,5 +1,7 @@
 # Desafíos de Programación con Listas y Funciones
 
+[🔗 Ver demo ](https://humildementebueno.github.io/Challenge-Arrangements/)
+
 ¡Bienvenido! Este repositorio está diseñado para ayudarte a practicar el uso de **funciones** y **listas** en programación. Los desafíos propuestos aquí te permitirán fortalecer conceptos fundamentales como la organización, modularización y reutilización del código.
 
 ## ¿Por qué practicar funciones y listas?
@@ -33,4 +35,33 @@ A continuación encontrarás una serie de ejercicios (no obligatorios) que puede
 1. **Lee cada desafío y resuélvelo en tu lenguaje preferido.**
 2. **Puedes crear un archivo por ejercicio o agruparlos en uno solo.**
 3. **Comparte tus soluciones con otros para recibir retroalimentación.**
-4. **¡No dudes en experimentar y modificar los ejercicios para
+4. **¡No dudes en experimentar y modificar los ejercicios para aprender aún más!**
+
+---
+
+## Sugerencias para compartir tus soluciones
+
+- Puedes hacer un fork de este repositorio y subir tus respuestas.
+- Si lo deseas, crea un Pull Request para agregar tus soluciones a la carpeta `/soluciones`.
+- Comenta tu código para que otros puedan entender tu lógica.
+- Si tienes dudas, abre un issue y la comunidad te ayudará.
+
+---
+
+## Recursos útiles
+
+- [Documentación de JavaScript: Arrays](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Guía de Funciones en JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions)
+
+---
+
+## Autor
+
+Creado por [humildementebueno](https://github.com/humildementebueno)  
+¿Tienes sugerencias o quieres aportar nuevos desafíos? ¡No dudes en participar!
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
